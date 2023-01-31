@@ -7,6 +7,8 @@
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>3.0.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
+
+         <relativePath/> <!-- Changes by DEVINDIA -->
 	</parent>
 	<groupId>com.BikkadIT</groupId>
 	<artifactId>ConstructorInjection</artifactId>
